@@ -3,8 +3,7 @@
 
 ## Summary
 For this Tutorial I will be covering the Hex Value /^#?([a-f0-9]{6}|[a-f0-9]{3})$/
-Expressions are used to generate characters combo to match a patern or string. For regular expressions or regex for short are a series of special characters that defines a search pattern like "\W" that uses forward slash \ means "match" and an uppercase W means "any non-word character". This expression is equivalent to [^A-Za-z0-9_].
-While the expression "\w" again the forward slash means match but the "w" lowercase w in the case means "any word character including underscore", so \w means match any word character. This expression is equivalent to [A-Za-z0-9_]. Also we notice that the upward arrow "^" represents "not". 
+Expressions are used to generate characters combo to match a patern or string. For regular expressions or regex for short are a series of special characters that defines a search pattern.
 
 
 ## Table of Contents
