@@ -8,12 +8,12 @@ While the expression "\w" again the forward slash means match but the "w" lowerc
 
 
 ## Table of Contents
-- <li><a href="#Anchors">[Anchors]</a></li>
-- <li><a href="#Quantifiers">[Quantifiers]</a></li>
-- <li><a href="Regex-Components">[Regex Components]</a></li>
-- <li><a href="#Or-operator">[OR-Operator]</a></li>
-- <li><a href="#Character-Classes">[Characters Classes]</a></li>
-- <li><a href="#Bracket-expressions">[Brackets Expressions]</a></li>
+<li><a href="#Anchors">[Anchors]</a></li>
+<li><a href="#Quantifiers">[Quantifiers]</a></li>
+<li><a href="Regex-Components">[Regex Components]</a></li>
+<li><a href="#Or-operator">[OR-Operator]</a></li>
+<li><a href="#Character-Classes">[Characters Classes]</a></li>
+<li><a href="#Bracket-expressions">[Brackets Expressions]</a></li>
 
 
 ##  Regex Components
