@@ -16,7 +16,7 @@ Expressions are used to generate characters combo to match a patern or string. F
 
 
 ##  Regex Components
-A regex is considered a literal, so the pattern must be wrapped in slash characters (/). If we examine the “Matching a Username” regex, you'll see that this is true:
+A regex is considered a literal, so the pattern must be wrapped in slash characters (/). If we examine the “Matching a Hex Value” regex, you'll see that this is true:
 /^#?([a-f0-9]{6}|[a-f0-9]{3})$/
 
 
